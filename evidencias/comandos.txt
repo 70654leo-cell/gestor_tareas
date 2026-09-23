@@ -1,0 +1,48 @@
+Id CommandLine                                                                                                                                                                
+  -- -----------                                                                                                                                                                
+   1 try { . "c:\Users\Kikem\AppData\Local\Programs\Microsoft VS Code\645f29cc31\resources\app\out\vs\workbench\contrib\terminal\common\scripts\shellIntegration.ps1" } catch {}
+   2 python -m venv .venv                                                                                                                                                       
+   3 python --version                                                                                                                                                           
+   4 pip freeze > requirements.txt                                                                                                                                              
+   5 pip install python-dotenv                                                                                                                                                  
+   6 pip freeze > requirements.txt                                                                                                                                              
+   7 /c:/Users/Kikem/OneDrive/Escritorio/7mo cuat/IA II/gestor-tareas/.venv-1/Scripts/python.exe -m pip install python-dotenv                                                   
+   8 git init                                                                                                                                                                   
+   9 git status                                                                                                                                                                 
+  10 git add requirments.txt                                                                                                                                                    
+  11 pip install python-dotenv                                                                                                                                                  
+  12 pip freeze > requirments.txt                                                                                                                                               
+  13 git init                                                                                                                                                                   
+  14 git status                                                                                                                                                                 
+  15 git add .                                                                                                                                                                  
+  16 git status                                                                                                                                                                 
+  17 git commit -m "Crea estructura inicial del proyecto"                                                                                                                       
+  18 git status                                                                                                                                                                 
+  19 git status                                                                                                                                                                 
+  20 git add .\README.md                                                                                                                                                        
+  21 git commit -m "Actualiza documentación del proyecto"                                                                                                                       
+  22 git status                                                                                                                                                                 
+  23 git add .\docs\descripcion.md                                                                                                                                              
+  24 git commit -m "Documenta funcionalidades previstas"                                                                                                                        
+  25 git log --online                                                                                                                                                           
+  26 git log --oneline                                                                                                                                                          
+  27 git remote add origin https://github.com/70654leo-cell/gestor_tareas.git                                                                                                   
+  28 git remote -v                                                                                                                                                              
+  29 git branch                                                                                                                                                                 
+  30 git push -u origin main                                                                                                                                                    
+  31 git remote add origin https://github.com/70654leo-cell/gestor_tareas.git...                                                                                                
+  32 git log --oneline                                                                                                                                                          
+  33 git remote add origin https://github.com/70654leo-cell/gestor_tareas.git                                                                                                   
+  34 git remote -v                                                                                                                                                              
+  35 git branch                                                                                                                                                                 
+  36 git push -u origin main                                                                                                                                                    
+  37 git push -u origin master                                                                                                                                                  
+  38 git status                                                                                                                                                                 
+  39 git add .\README.md                                                                                                                                                        
+  40 git commit -m "Agrega información sobre control de versiones"                                                                                                              
+  41 git push                                                                                                                                                                   
+  42 history                                                                                                                                                                    
+  43 history                                                                                                                                                                    
+  44 history < .\docs\evidencia.txt                                                                                                                                             
+  45 history < .\docs\comandos.txt                                                                                                                                              
+  46 history < .\docs\comandos.txt   
